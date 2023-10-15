@@ -1,4 +1,4 @@
-def LessThan():
+def Display_word():
     file = open("D:\\Asif\\python\\FILE_Handle\\displayLessThan 4char\\note.txt")
     data = file.read()
     words = data.split()
@@ -9,4 +9,4 @@ def LessThan():
     
 
 
-LessThan()
+Display_word()
